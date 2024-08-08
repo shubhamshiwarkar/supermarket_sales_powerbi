@@ -15,7 +15,7 @@ Steps:
 ------
 - Importing and Cleaning Data
 - Defining Measures and Columns
-- Creating Charts for valuable Insights
+- Creating Charts for Valuable Insights
 - Sales Forecasting for 15 Days
 
 
@@ -26,3 +26,12 @@ Learning:
 - to deliver valuable insights
 - accurate sales forecasting and interactive dashboard creation
 - driving business success
+
+
+Dashboard:
+----------
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/2d4430e4-2674-4de4-8fd4-71b44d8ff3fb">
+
+Time Series Analysis:
+---------------------
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/dd0fc373-3a23-4d45-ae9a-b9fda523e22c">
